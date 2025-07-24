@@ -1,6 +1,3 @@
-
-
-
 export default function Aboutus() {
   return (
     <div className="py-8 md:py-12">
